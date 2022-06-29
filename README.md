@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @toymka565
+- 👋 Hi, I’m Artem.
 - 👀 I’m interested in HTML, CSS, JS, Python etc.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning something new in web-development.
+- 💞️ I’m looking to collaborate on some projects.
+
 
 <!---
 toymka565/toymka565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
