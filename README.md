@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artem.
-- 👀 I’m interested in HTML, CSS, JS, Python etc.
+- 👀 I’m interested in HTML, CSS, JS, Python.
 - 🌱 I’m currently learning something new in web-development.
 - 💞️ I’m looking to collaborate on some projects.
 
